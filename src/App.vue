@@ -5,7 +5,7 @@
     <keep-alive exclude="Detail">
       <router-view></router-view>
     </keep-alive>
-
+    <div></div>
     <main-tab-bar></main-tab-bar>
   </div>
 </template>
